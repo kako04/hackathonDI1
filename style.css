@@ -1,0 +1,13 @@
+body{
+    box-sizing: border-box;
+    /* margin: 0; */
+}
+
+h1{
+    text-align: center;
+}
+section{
+    border: 1px solid gray;
+    min-height: 10px;
+    /* background-color: rgb(199, 10, 50); */
+}
